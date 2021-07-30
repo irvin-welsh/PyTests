@@ -1,2 +1,2 @@
 print("Fu$k OFF")
-print("Жопа")
+print("Zhop")
